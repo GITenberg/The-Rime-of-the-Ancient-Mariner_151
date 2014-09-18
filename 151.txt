@@ -9,6 +9,7 @@ By Samuel Taylor Coleridge
 
 :toc:
 
+[#I]
 == PART THE FIRST.
 
      It is an ancient Mariner,
@@ -116,6 +117,7 @@ By Samuel Taylor Coleridge
 
 
 
+[#II]
 == PART THE SECOND.
 
      The Sun now rose upon the right:
@@ -195,6 +197,7 @@ By Samuel Taylor Coleridge
 
 
 
+[#III]
 == PART THE THIRD.
 
      There passed a weary time.  Each throat
@@ -299,6 +302,7 @@ By Samuel Taylor Coleridge
 
 
 
+[#IV]
 == PART THE FOURTH.
 
      "I fear thee, ancient Mariner!
@@ -387,6 +391,7 @@ By Samuel Taylor Coleridge
 
 
 
+[#V]
 == PART THE FIFTH.
 
      Oh sleep! it is a gentle thing,
