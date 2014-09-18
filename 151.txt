@@ -7,15 +7,20 @@ Gitenberg asciidoc by Seth Wolfwood
 :keywords: gitenberg, poem, gutenberg, ancient mariner, coleridge
 :email: <seth@sethish.com>
 :sectanchors:
+:toc: left
+// FIXME: `toc` isn't rendering to the left
+// FIXME: colophon throws errors
+// TODO: implement footnotes with 2nd edition coleridge gloss http://asciidoctor.org/docs/user-manual/#user-footnotes
 
-[discrete]
-== IN SEVEN PARTS
+[.lead]
+IN SEVEN PARTS
 
 By Samuel Taylor Coleridge
 
 
 == PART THE FIRST.
 
+""
 [verse]
 ____
 It is an ancient Mariner,
@@ -121,11 +126,13 @@ Why look'st thou so?"--With my cross-bow
 I shot the ALBATROSS.
 
 ____
-
+""
 
 
 == PART THE SECOND.
 
+
+""
 [verse]
 ____
 The Sun now rose upon the right:
@@ -202,12 +209,13 @@ Had I from old and young!
 Instead of the cross, the Albatross
 About my neck was hung.
 ____
-
+""
 
 
 
 == PART THE THIRD.
 
+""
 [verse]
 ____
 There passed a weary time.  Each throat
@@ -309,12 +317,13 @@ They fled to bliss or woe!
 And every soul, it passed me by,
 Like the whizz of my CROSS-BOW!
 ____
-
+""
 
 
 
 == PART THE FOURTH.
 
+""
 [verse]
 ____
 "I fear thee, ancient Mariner!
@@ -400,12 +409,13 @@ And from my neck so free
 The Albatross fell off, and sank
 Like lead into the sea.
 ____
-
+""
 
 
 
 == PART THE FIFTH.
 
+""
 [verse]
 ____
 Oh sleep! it is a gentle thing,
@@ -552,13 +562,13 @@ As soft as honey-dew:
 Quoth he, "The man hath penance done,
 And penance more will do."
 ____
-
+""
 
 
 
 == PART THE SIXTH.
 
-
+""
 [verse]
 ____
 FIRST VOICE.
@@ -702,12 +712,12 @@ That he makes in the wood.
 He'll shrieve my soul, he'll wash away
 The Albatross's blood.
 ____
-
-
+""
 
 
 == PART THE SEVENTH.
 
+""
 [verse]
 ____
 
@@ -854,7 +864,7 @@ ____
 
 
 [colophon]
-= Colophon
+____
 End of the Project Gutenberg EBook of The Rime of the Ancient Mariner, by 
 Samuel Taylor Coleridge
 
@@ -1217,3 +1227,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+____
