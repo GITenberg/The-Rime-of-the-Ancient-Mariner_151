@@ -11,6 +11,7 @@ Gitenberg asciidoc by Seth Wolfwood
 // FIXME: `toc` isn't rendering to the left
 // FIXME: colophon throws errors
 // TODO: implement footnotes with 2nd edition coleridge gloss http://asciidoctor.org/docs/user-manual/#user-footnotes
+// TODO: find highest resolution of Dore images, include and embed
 
 [.lead]
 IN SEVEN PARTS
