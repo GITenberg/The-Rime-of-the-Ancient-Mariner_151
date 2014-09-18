@@ -1,12 +1,15 @@
 = THE RIME OF THE ANCIENT MARINER
+Samuel Taylor Coleridge
+Gitenberg asciidoc by Seth Wolfwood
+:docversion: 0.0.1
 
 IN SEVEN PARTS
 
 By Samuel Taylor Coleridge
 
+:toc:
 
-
-PART THE FIRST.
+== PART THE FIRST.
 
      It is an ancient Mariner,
      And he stoppeth one of three.
@@ -113,7 +116,7 @@ PART THE FIRST.
 
 
 
-PART THE SECOND.
+== PART THE SECOND.
 
      The Sun now rose upon the right:
      Out of the sea came he,
@@ -192,7 +195,7 @@ PART THE SECOND.
 
 
 
-PART THE THIRD.
+== PART THE THIRD.
 
      There passed a weary time.  Each throat
      Was parched, and glazed each eye.
@@ -296,7 +299,7 @@ PART THE THIRD.
 
 
 
-PART THE FOURTH.
+== PART THE FOURTH.
 
      "I fear thee, ancient Mariner!
      I fear thy skinny hand!
@@ -384,7 +387,7 @@ PART THE FOURTH.
 
 
 
-PART THE FIFTH.
+== PART THE FIFTH.
 
      Oh sleep! it is a gentle thing,
      Beloved from pole to pole!
@@ -533,7 +536,7 @@ PART THE FIFTH.
 
 
 
-PART THE SIXTH.
+== PART THE SIXTH.
 
 
      FIRST VOICE.
@@ -680,7 +683,7 @@ PART THE SIXTH.
 
 
 
-PART THE SEVENTH.
+== PART THE SEVENTH.
 
      This Hermit good lives in that wood
      Which slopes down to the sea.
