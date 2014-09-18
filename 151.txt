@@ -853,6 +853,8 @@ ____
 
 
 
+[colophon]
+= Colophon
 End of the Project Gutenberg EBook of The Rime of the Ancient Mariner, by 
 Samuel Taylor Coleridge
 
