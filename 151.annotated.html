@@ -125,7 +125,7 @@ h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title str
 .clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
 .clearfix:after,.float-group:after{clear:both}
 *:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
-pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+pre,pre>code,pre>span.stanza{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
 .keyseq{color:rgba(51,51,51,.8)}
 kbd{display:inline-block;color:rgba(0,0,0,.8);font-size:.75em;line-height:1.4;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:-.15em .15em 0 .15em;padding:.2em .6em .2em .5em;vertical-align:middle;white-space:nowrap}
 .keyseq kbd:first-child{margin-left:0}
@@ -235,7 +235,7 @@ table.pyhltable .linenodiv{background:none!important;padding-right:0!important}
 .quoteblock .quoteblock blockquote{padding:0 0 0 .75em}
 .quoteblock .quoteblock blockquote:before{display:none}
 .verseblock{margin:0 1em 1.25em 1em}
-.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre, .verseblock span.stanza{font-family:"Open Sans","DejaVu Sans",sans;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
 .verseblock pre strong{font-weight:400}
 .verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
 .quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
@@ -410,6 +410,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 .print-only{display:block!important}
 .hide-for-print{display:none!important}
 .show-for-print{display:inherit!important}}
+span.line{display:block;height:1.45em}
 </style>
 </head>
 <body class="book">
@@ -454,10 +455,14 @@ bidden to a wedding feast, and detaineth one.</p>
 </div>
 </div>
 <div class="verseblock">
-<pre class="content">It is an ancient Mariner,
-And he stoppeth one of three.
-"By thy long grey beard and glittering eye,
-Now wherefore stopp&#8217;st thou me?
+    <span class="stanza content">
+        <span class="line">It is an ancient Mariner,</span>
+        <span class="line">And he stoppeth one of three.</span>
+        <span class="line">"By thy long grey beard and glittering eye,</span>
+        <span class="line">Now wherefore stopp&#8217;st thou me?</span>
+    </span>
+
+<pre class="content">
 
 "The Bridegroom&#8217;s doors are opened wide,
 And I am next of kin;
@@ -1280,3 +1285,4 @@ Last updated 2014-09-19 18:04:19 EDT
 </div>
 </body>
 </html>
+
