@@ -5,6 +5,18 @@ The Rime of the Ancient Mariner
 
 This is a git repository of the source files for the book The Rime of the Ancient Mariner by Coleridge, Samuel Taylor. This book is in the Public Domain, see the LICENSE file for details.
 
+Building
+========
+
+html
+
+    asciidoctor -d book -a toc 151.txt
+
+pdf
+
+    asciidoctor -b docbook 151.txt
+    a2x -f pdf --fop 151.xml
+
 Found an error?
 ===============
 If you find an error in a book in GITenberg, you can report it by clicking the Issues tab in this book’s repository. Please copy-and-paste the entire sentence that contains the error, and what the text should read. For advanced users, you can make a Pull Request on Github.  For more information and how to get involved see the CONTRIBUTING_ section of the GITenberg website.

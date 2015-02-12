@@ -1,15 +1,12 @@
 = THE RIME OF THE ANCIENT MARINER
 Samuel Taylor Coleridge
-Gitenberg asciidoc by Seth Wolfwood
-:docversion: 0.0.1
+:docversion: 0.0.2
 :title: The Rime of the Ancient Mariner, a Gitenberg book curated by Seth Wolfwood
 :description: The Rime of the Ancient Mariner (originally The Rime of the Ancyent Marinere) is the longest major poem by the English poet Samuel Taylor Coleridge, written in 1797–98 and published in 1798 in the first edition of Lyrical Ballads. Modern editions use a revised version printed in 1817 that featured a gloss. Along with other poems in Lyrical Ballads, it was a signal shift to modern poetry and the beginning of British Romantic literature. (from https://en.wikipedia.org/wiki/The_Rime_of_the_Ancient_Mariner[Wikipedia])
 :keywords: gitenberg, poem, gutenberg, ancient mariner, coleridge
-:email: <seth@sethish.com>
 :sectanchors:
 :toc: left
-// FIXME: `toc` isn't rendering to the left
-// FIXME: colophon throws errors
+// FIXME: `toc` isn’t rendering to the left
 // TODO: implement footnotes with 2nd edition coleridge gloss http://asciidoctor.org/docs/user-manual/#user-footnotes
 // TODO: find highest resolution of Dore images, include and embed
 
@@ -18,8 +15,6 @@ IN SEVEN PARTS
 
 By Samuel Taylor Coleridge
 
-// [.right.text-center]
-// image::include/Dore_-_it_was_wondrous_cold.jpg[It was wonderous cold]
 
 == PART THE FIRST.
 ****
@@ -27,22 +22,21 @@ An ancient Mariner meeteth three gallants
 bidden to a wedding feast, and detaineth one.
 ****
 
-""
 [verse]
 ____
 It is an ancient Mariner,
 And he stoppeth one of three.
-"By thy long grey beard and glittering eye,
+“By thy long grey beard and glittering eye,
 Now wherefore stopp'st thou me?
 
-"The Bridegroom's doors are opened wide,
+“The Bridegroom’s doors are opened wide,
 And I am next of kin;
 The guests are met, the feast is set:
 May'st hear the merry din."
 
 He holds him with his skinny hand,
-"There was a ship," quoth he.
-"Hold off! unhand me, grey-beard loon!"
+“There was a ship," quoth he.
+“Hold off! unhand me, grey-beard loon!"
 Eftsoons his hand dropt he.
 
 He holds him with his glittering eye--
@@ -110,7 +104,7 @@ Like noises in a swound!
 At length did cross an Albatross:
 Thorough the fog it came;
 As if it had been a Christian soul,
-We hailed it in God's name.
+We hailed it in God’s name.
 
 It ate the food it ne'er had eat,
 And round and round it flew.
@@ -127,19 +121,17 @@ It perched for vespers nine;
 Whiles all the night, through fog-smoke white,
 Glimmered the white Moon-shine.
 
-"God save thee, ancient Mariner!
+“God save thee, ancient Mariner!
 From the fiends, that plague thee thus!--
 Why look'st thou so?"--With my cross-bow
 I shot the ALBATROSS.
 
 ____
-""
 
 
 == PART THE SECOND.
 
 
-""
 [verse]
 ____
 The Sun now rose upon the right:
@@ -159,7 +151,7 @@ That made the breeze to blow.
 Ah wretch! said they, the bird to slay
 That made the breeze to blow!
 
-Nor dim nor red, like God's own head,
+Nor dim nor red, like God’s own head,
 The glorious Sun uprist:
 Then all averred, I had killed the bird
 That brought the fog and mist.
@@ -198,7 +190,7 @@ Upon the slimy sea.
 
 About, about, in reel and rout
 The death-fires danced at night;
-The water, like a witch's oils,
+The water, like a witch’s oils,
 Burnt green, and blue and white.
 
 And some in dreams assured were
@@ -216,13 +208,11 @@ Had I from old and young!
 Instead of the cross, the Albatross
 About my neck was hung.
 ____
-""
 
 
 
 == PART THE THIRD.
 
-""
 [verse]
 ____
 There passed a weary time.  Each throat
@@ -267,7 +257,7 @@ When that strange shape drove suddenly
 Betwixt us and the Sun.
 
 And straight the Sun was flecked with bars,
-(Heaven's Mother send us grace!)
+(Heaven’s Mother send us grace!)
 As if through a dungeon-grate he peered,
 With broad and burning face.
 
@@ -280,20 +270,20 @@ Are those her ribs through which the Sun
 Did peer, as through a grate?
 And is that Woman all her crew?
 Is that a DEATH? and are there two?
-Is DEATH that woman's mate?
+Is DEATH that woman’s mate?
 
 Her lips were red, her looks were free,
 Her locks were yellow as gold:
 Her skin was as white as leprosy,
 The Night-Mare LIFE-IN-DEATH was she,
-Who thicks man's blood with cold.
+Who thicks man’s blood with cold.
 
 The naked hulk alongside came,
 And the twain were casting dice;
-"The game is done!  I've won!  I've won!"
+“The game is done!  I’ve won!  I’ve won!"
 Quoth she, and whistles thrice.
 
-The Sun's rim dips; the stars rush out:
+The Sun’s rim dips; the stars rush out:
 At one stride comes the dark;
 With far-heard whisper, o'er the sea.
 Off shot the spectre-bark.
@@ -303,7 +293,7 @@ Fear at my heart, as at a cup,
 My life-blood seemed to sip!
 
 The stars were dim, and thick the night,
-The steersman's face by his lamp gleamed white;
+The steersman’s face by his lamp gleamed white;
 From the sails the dew did drip--
 Till clombe above the eastern bar
 The horned Moon, with one bright star
@@ -324,21 +314,19 @@ They fled to bliss or woe!
 And every soul, it passed me by,
 Like the whizz of my CROSS-BOW!
 ____
-""
 
 
 
 == PART THE FOURTH.
 
-""
 [verse]
 ____
-"I fear thee, ancient Mariner!
+“I fear thee, ancient Mariner!
 I fear thy skinny hand!
 And thou art long, and lank, and brown,
 As is the ribbed sea-sand.
 
-"I fear thee and thy glittering eye,
+“I fear thee and thy glittering eye,
 And thy skinny hand, so brown."--
 Fear not, fear not, thou Wedding-Guest!
 This body dropt not down.
@@ -374,10 +362,10 @@ Nor rot nor reek did they:
 The look with which they looked on me
 Had never passed away.
 
-An orphan's curse would drag to Hell
+An orphan’s curse would drag to Hell
 A spirit from on high;
 But oh! more horrible than that
-Is a curse in a dead man's eye!
+Is a curse in a dead man’s eye!
 Seven days, seven nights, I saw that curse,
 And yet I could not die.
 
@@ -388,7 +376,7 @@ And a star or two beside.
 
 Her beams bemocked the sultry main,
 Like April hoar-frost spread;
-But where the ship's huge shadow lay,
+But where the ship’s huge shadow lay,
 The charmed water burnt alway
 A still and awful red.
 
@@ -416,13 +404,11 @@ And from my neck so free
 The Albatross fell off, and sank
 Like lead into the sea.
 ____
-""
 
 
 
 == PART THE FIFTH.
 
-""
 [verse]
 ____
 Oh sleep! it is a gentle thing,
@@ -485,12 +471,12 @@ Where they were wont to do:
 They raised their limbs like lifeless tools--
 We were a ghastly crew.
 
-The body of my brother's son,
+The body of my brother’s son,
 Stood by me, knee to knee:
 The body and I pulled at one rope,
 But he said nought to me.
 
-"I fear thee, ancient Mariner!"
+“I fear thee, ancient Mariner!"
 Be calm, thou Wedding-Guest!
 'Twas not those souls that fled in pain,
 Which to their corses came again,
@@ -514,7 +500,7 @@ With their sweet jargoning!
 
 And now 'twas like all instruments,
 Now like a lonely flute;
-And now it is an angel's song,
+And now it is an angel’s song,
 That makes the Heavens be mute.
 
 It ceased; yet still the sails made on
@@ -554,28 +540,26 @@ But ere my living life returned,
 I heard and in my soul discerned
 Two VOICES in the air.
 
-"Is it he?" quoth one, "Is this the man?
+“Is it he?" quoth one, “Is this the man?
 By him who died on cross,
 With his cruel bow he laid full low,
 The harmless Albatross.
 
-"The spirit who bideth by himself
+“The spirit who bideth by himself
 In the land of mist and snow,
 He loved the bird that loved the man
 Who shot him with his bow."
 
 The other was a softer voice,
 As soft as honey-dew:
-Quoth he, "The man hath penance done,
+Quoth he, “The man hath penance done,
 And penance more will do."
 ____
-""
 
 
 
 == PART THE SIXTH.
 
-""
 [verse]
 ____
 FIRST VOICE.
@@ -613,7 +597,7 @@ And closes from behind.
 Fly, brother, fly! more high, more high
 Or we shall be belated:
 For slow and slow that ship will go,
-When the Mariner's trance is abated.
+When the Mariner’s trance is abated.
 
 I woke, and we were sailing on
 As in a gentle weather:
@@ -703,11 +687,11 @@ No voice; but oh! the silence sank
 Like music on my heart.
 
 But soon I heard the dash of oars;
-I heard the Pilot's cheer;
+I heard the Pilot’s cheer;
 My head was turned perforce away,
 And I saw a boat appear.
 
-The Pilot, and the Pilot's boy,
+The Pilot, and the Pilot’s boy,
 I heard them coming fast:
 Dear Lord in Heaven! it was a joy
 The dead men could not blast.
@@ -716,15 +700,13 @@ I saw a third--I heard his voice:
 It is the Hermit good!
 He singeth loud his godly hymns
 That he makes in the wood.
-He'll shrieve my soul, he'll wash away
-The Albatross's blood.
+He’ll shrieve my soul, he’ll wash away
+The Albatross’s blood.
 ____
-""
 
 
 == PART THE SEVENTH.
 
-""
 [verse]
 ____
 
@@ -740,26 +722,26 @@ It is the moss that wholly hides
 The rotted old oak-stump.
 
 The skiff-boat neared: I heard them talk,
-"Why this is strange, I trow!
+“Why this is strange, I trow!
 Where are those lights so many and fair,
 That signal made but now?"
 
-"Strange, by my faith!" the Hermit said--
-"And they answered not our cheer!
+“Strange, by my faith!" the Hermit said--
+“And they answered not our cheer!
 The planks looked warped! and see those sails,
 How thin they are and sere!
 I never saw aught like to them,
 Unless perchance it were
 
-"Brown skeletons of leaves that lag
+“Brown skeletons of leaves that lag
 My forest-brook along;
 When the ivy-tod is heavy with snow,
 And the owlet whoops to the wolf below,
-That eats the she-wolf's young."
+That eats the she-wolf’s young."
 
-"Dear Lord! it hath a fiendish look--
+“Dear Lord! it hath a fiendish look--
 (The Pilot made reply)
-I am a-feared"--"Push on, push on!"
+I am a-feared”--“Push on, push on!"
 Said the Hermit cheerily.
 
 The boat came closer to the ship,
@@ -777,7 +759,7 @@ Which sky and ocean smote,
 Like one that hath been seven days drowned
 My body lay afloat;
 But swift as dreams, myself I found
-Within the Pilot's boat.
+Within the Pilot’s boat.
 
 Upon the whirl, where sank the ship,
 The boat spun round and round;
@@ -789,11 +771,11 @@ And fell down in a fit;
 The holy Hermit raised his eyes,
 And prayed where he did sit.
 
-I took the oars: the Pilot's boy,
+I took the oars: the Pilot’s boy,
 Who now doth crazy go,
 Laughed loud and long, and all the while
 His eyes went to and fro.
-"Ha! ha!" quoth he, "full plain I see,
+“Ha! ha!" quoth he, “full plain I see,
 The Devil knows how to row."
 
 And now, all in my own countree,
@@ -801,9 +783,9 @@ I stood on the firm land!
 The Hermit stepped forth from the boat,
 And scarcely he could stand.
 
-"O shrieve me, shrieve me, holy man!"
+“O shrieve me, shrieve me, holy man!"
 The Hermit crossed his brow.
-"Say quick," quoth he, "I bid thee say--
+“Say quick," quoth he, “I bid thee say--
 What manner of man art thou?"
 
 Forthwith this frame of mine was wrenched
@@ -858,10 +840,11 @@ He made and loveth all.
 The Mariner, whose eye is bright,
 Whose beard with age is hoar,
 Is gone: and now the Wedding-Guest
-Turned from the bridegroom's door.
+Turned from the bridegroom’s door.
 
 He went like one that hath been stunned,
 And is of sense forlorn:
 A sadder and a wiser man,
 He rose the morrow morn.
 ____
+
